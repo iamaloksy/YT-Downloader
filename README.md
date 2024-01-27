@@ -1,6 +1,6 @@
 <h1 align="center">YT-Downloader</h1>
 
-### [+] Created By <a href="https://github.com/iamaloksy>Alok Kumar</a>
+### [+] Created By <a href="https://github.com/iamaloksy> Alok Kumar</a>
 
 <p align="center">
    <img src="https://img.shields.io/badge/Author-iamaloksy-magenta?style=flat-square">
